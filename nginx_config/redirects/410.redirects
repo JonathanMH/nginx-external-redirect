@@ -1,0 +1,4 @@
+
+location = /deprecated {
+  return 410;
+}

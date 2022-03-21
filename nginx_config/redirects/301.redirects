@@ -1,0 +1,2 @@
+
+rewrite /old-url$ /new-url permanent;
